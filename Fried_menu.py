@@ -2,6 +2,7 @@
 - 주문, 초기화, 전체 출력 기능
 - 상세한 부분은 추가 하지 않음
 - Java로 구현해볼 것.
+- GitHub Desktop 실험중
 """
 import sys
 
